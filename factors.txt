@@ -1,0 +1,39 @@
+Factors investigated by Martinez Neda et al. [5] that are applicable to continuing students. For extended factors,  the response for each factor is applicable for all questions. Students were counted if they responded positively to any included question
+
+Factor: CS Classmates (renamed to Classmate Support)
+Associated survey question: With how many other students from your ICS classes do you spend non-school time?
+Response: None
+Extended factors associated survey questions:
+How many friends and/or people from your study group did you sit with regularly during lectures?
+How many friends and/or people from your study group did you sit with regularly during discussions?
+
+Factor: Passing Satisfaction
+Associated survey question: (Likert) I am satisfied with just passing all my classes regardless of the letter grade.
+Response: Agree
+
+Factor: Role Models
+Associated survey question: (Likert) I have positive role model(s) that encourage me to continue in the ICS associated major/minor.
+Response: No
+
+Factor: Mental Health
+Associated survey question: (Likert) In the past quarter, my mental health has often affected my academic success.
+Response: Often
+Extended factors associated survey questions:
+(Likert) In the past quarter, I’ve had problems with academic work, social life, or job performance due to emotional distress (ex: depression, sadness).
+(Likert) In the past quarter, I’ve had problems with academic work, social life, or job performance due to feeling on edge, nervous, or anxious.
+
+Factor: Leaving CS
+Associated survey question: (Likert) Since entering my computing major/minor, I have seriously thought about changing to a different major or minor.
+Response: Agree
+
+Factor: Sense of Belonging
+Associated survey question: (Likert) I feel like I belong in the computing major/minor school.
+Response: Disagree
+
+Factor: Socioeconomic Status
+Associated survey questions:
+(Likert) I feel that my current financial situation negatively impacts my academic success.
+(Likert) My work responsibilities interfere with my academic success.
+(Likert) Because of work, I have limited time to study.
+(Likert) My time commitments limit the amount of time I have to study (commute, lectures, office hours engagement, etc.).
+Response: Always
