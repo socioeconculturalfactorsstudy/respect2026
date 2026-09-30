@@ -37,3 +37,13 @@ Associated survey questions:
 (Likert) Because of work, I have limited time to study.
 (Likert) My time commitments limit the amount of time I have to study (commute, lectures, office hours engagement, etc.).
 Response: Always
+
+
+
+Factors investigated for social support
+Belonging: I feel like I belong in the computing major/minor school.
+Learning: I feel confident in learning the course material.
+Lecture: I am able to comprehend topics that are presented during lectures.
+Discussion: I am able to comprehend topics that are presented during discussion.
+Intention: Since entering my computing major/minor, I have seriously thought about changing to a different major or minor.
+
